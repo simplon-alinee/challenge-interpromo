@@ -1,0 +1,90 @@
+html,body{
+   max-width: 100%;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#bann{
+    width: 900px;
+}
+
+#bloc1 {
+    width:1400px;
+    height:300px;
+    background-color: white;
+display: inline-block;
+}
+
+p span.calendrier{
+
+height: 300px;
+float:left;
+margin-left: 150px;
+margin-top: 100px;
+}
+
+p span.lettre{
+
+height: 300px;
+display: inline-block;
+text-align: center;
+margin-left: 350px;
+margin-top: 100px;
+}
+
+p span.paiement{
+
+height: 300px;
+margin-top: 100px;
+float:right;
+margin-right: 200px;
+
+}
+#separator{
+    width:1400px;
+    color:#A2A2A2;
+}
+
+#bloc2 {
+    width:1400px;
+    height:200px;
+    background-color: #E3FEEB;
+}
+
+#bloc3{
+    width: 1400px;
+    height: 100px;
+    background-color: #453C3C;
+}
+
+#bloc4{
+    width: 1400px;
+    height: 600px;
+    background-color: #00B8FB;
+
+}
+
+p span.gauche{
+   
+    width: 600px;
+    background-color: 
+}
+
+
+p span.gauche img{
+    margin-left: 80px;
+    margin-top: 50px;
+    border-radius: 10px;
+   
+    } 
+
+
+p span.droite{
+   float: right;
+    width: 600px;
+    height: 600px;
+    background-color: white;
+}
